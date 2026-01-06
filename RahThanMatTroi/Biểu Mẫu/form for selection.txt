@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset = "utf-8">
+<title>nguyễn nhựt minh 12A4 - Biểu mẫu 6 (select)</title>
+</head>
+<body>
+
+<form action="login.asp" method="post">
+<label for="thethao">Đăng kí câu lạc bộ: </label><br>
+<select id="thethao" name="thethao">
+    <option value="bongda">Bóng đá</option>
+    <option value="bongban">Bóng bàn</option>
+    <option value="bongro">Bóng rổ</option>
+    <option value="bongchuyen">Bóng chuyền</option>
+    <option value="caulong">Cầu lông</option>
+    <option value="boiloi">Bơi lội</option>
+    <option value="vothuat">Võ thuật</option>
+</select>
+
+</form>
+
+</body>
+</html>

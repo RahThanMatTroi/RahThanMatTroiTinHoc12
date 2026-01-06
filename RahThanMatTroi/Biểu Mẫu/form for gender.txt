@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset = "utf-8">
+<title>nguyễn nhựt minh 12A4 - Biểu mẫu 3 (gender)</title>
+</head>
+<body>
+
+<form action="login.asp" method="post">
+	<label for="gioitinh">Giới tính: </label><br>
+
+	<input type="radio" id="nam" name="gioitinh" value="Nam">
+	<label for="nam">Nam</label><br>
+
+	<input type="radio" id="nu" name="gioitinh" value="Nữ">
+	<label for="nu">Nữ</label>
+</form>
+
+</body>
+</html>

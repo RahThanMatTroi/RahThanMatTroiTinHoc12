@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+	div p {color:blue;}
+
+</style>
+</head>
+<body>
+
+<div>
+<h1> Lịch sử CSS </h1>
+<p>Ý tưởng ban đầu của CSS do kĩ sư Håkon Wium Lie, người Na Uy, thiết lập năm 1994 trong khi làm việc với Tim Berners-Lee tại viện hạt nhân CERN. </p>
+</div>
+<h1> Ý tưởng CSS </h1>
+<p> Ý tưởng chính của CSS là tạo ra các mẫu định dạng riêng, độc lập cho các phần tử HTML của trang web.
+</p>
+
+</body>
+</html>
+
+

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body style="background-color: powderblue;">
+
+<h1 style="color:blue;">Đây là dòng tiêu đề</h1>
+<p style="color:red;">Đây là dòng văn bản thứ nhất</p>
+<p style="color:red;">Đây là dòng văn bản thứ hai</p>
+<p style="color:red;">Đây là dòng văn bản thứ ba</p>
+
+</body>
+</html>

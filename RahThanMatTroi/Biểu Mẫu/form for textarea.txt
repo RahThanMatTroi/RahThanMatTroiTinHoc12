@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset = "utf-8">
+<title>nguyễn nhựt minh 12A4 - Biểu mẫu 7 (textarea)</title>
+</head>
+<body>
+
+<form action="login.asp" method="post">
+<fieldset><legend>Thông tin cá nhân</legend>
+<label for="diachi">Địa chỉ: </label><br>
+<textarea id="diachi" name="diachi" rows="5" cols="20">
+</textarea>
+</fieldset>
+</form>
+
+</body>
+</html>

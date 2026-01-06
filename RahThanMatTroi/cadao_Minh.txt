@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta  charset = "utf-8">
+<title>Ca Dao</title>
+</head>
+<body>
+
+<h2 style = "color:red"><u>Ca dao tục ngữ Việt Nam</u></h2>
+
+<p>Anh đi anh nhớ quê nhà<br>
+Nhớ canh rau muống, nhớ cà dầm tương.</p>
+
+<p>Đói cho sạch, rách cho thơm..</p>
+
+<p>Công cha như núi Thái Sơn<br>
+Nghĩa mẹ như nước trong nguồn chảy ra<br>
+Một lòng thờ mẹ kính cha<br>
+Cho tròn chữ hiếu mới là đạo con.</p>
+
+
+</body>
+</html>

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset = "utf-8">
+<title>nguyễn nhựt minh 12A4 - Biểu mẫu 5 (uploading file)</title>
+</head>
+<body>
+
+<form action="login.asp" method="post">
+	<input type="button" name="loichao" value="Lời chào"><br><br>
+	<input type="file" id="hoso" name="hoso"><br><br>
+	<input type="submit" name="dangki" value="Đăng kí">
+</form>
+
+</body>
+</html>

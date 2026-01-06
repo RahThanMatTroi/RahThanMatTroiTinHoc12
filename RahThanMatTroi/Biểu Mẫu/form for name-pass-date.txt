@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset = "utf-8">
+<title>nguyễn nhựt minh 12A4 - Biểu mẫu 1 (name, pass, date)</title>
+</head>
+<body>
+
+<form action="login.asp" method="post">
+    <label for="hoten">Họ tên: </label>
+	<input type="text" id="hoten" name="hoten"><br>
+    <label for="matkhau">Mật Khẩu: </label>
+	<input type="password" id="matkhau" name="matkhau"><br>
+    <label for="ngaysinh">Ngày sinh: </label>
+    <input type="date" id="ngaysinh" name="ngaysinh">
+
+</form>
+
+</body>
+</html>

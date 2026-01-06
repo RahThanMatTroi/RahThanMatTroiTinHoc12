@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta  charset = "utf-8">
+<title>danh sách lồng nhau</title>
+</head>
+<body>
+<ol type="A">
+<li>Môn học bắt buộc
+	<ol style="1" start="1">
+	<li>Toán</li>
+	<li>Ngữ văn</li>
+	<li>Ngoại ngữ</li>
+	</ol>
+</li>
+<li>Môn học tự chọn
+    <ol type="1" start="4">
+        <li>Vật lý</li>
+        <li>Hóa học</li>
+        <li>Sinh học</li>
+        <li>Lịch sử</li>
+        <li>Địa lý</li>
+    </ol>
+</li>
+</ol>
+
+</body>
+</html>

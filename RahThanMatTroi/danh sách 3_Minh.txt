@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta  charset = "utf-8">
+<title>danh sách có thứ tự</title>
+</head>
+<body>
+
+<dl>
+<dt>Kem</dt>
+<dd>Món ăn ngọt, ở dạng đông lạnh</dd>
+<dt>Trà sữa</dt>
+<dd>Đồ uống làm từ trà và sữa</dd>
+<dt>Bánh bông lan</dt>
+<dd>Loại bánh làm từ bánh mì và trứng</dd>
+</dl>
+
+</body>
+</html>

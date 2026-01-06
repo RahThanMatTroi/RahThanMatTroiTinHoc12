@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta  charset = "utf-8">
+<title>danh sách có thứ tự</title>
+</head>
+<body>
+
+<ul style="list-style-type:none">
+<li>Công nghệ thông tin</li>
+<li>Truyền thông marketing</li>
+<li>Công nghệ ô tô</li>
+<li>Du lịch khách sạn</li>
+<li>Thiết kế đồ hoạ</li>
+<li>trí tuệ nhân tạo</li>
+</ul>
+
+</body>
+</html>
